@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">android-compose-basic-DiceRoller</string>
+    <string name="roll">Roll</string>
+</resources>
